@@ -1,0 +1,3 @@
+rootProject.name = 'tenant-manegment-module'
+include(':shared')
+project(':shared').projectDir = file('../shared')
